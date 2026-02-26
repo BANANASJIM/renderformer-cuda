@@ -86,7 +86,7 @@ Per-view time scales linearly with pixel token count (~20μs/token).
 ## Quick Start
 
 ```bash
-git clone --recursive https://github.com/<your-username>/renderformer-cuda.git
+git clone --recursive https://github.com/BANANASJIM/renderformer-cuda.git
 cd renderformer-cuda
 ./scripts/setup.sh
 ```
